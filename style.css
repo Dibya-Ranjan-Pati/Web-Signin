@@ -1,0 +1,59 @@
+.center{
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgb(0, 0, 0) 0%, rgb(10, 10, 10) 35%, rgb(41, 42, 43) 100%);
+    max-width: fit-content;
+    margin: auto;
+    margin-top: 10%;
+    display: block;
+    border-style:outset;
+    border-radius: 5%;
+}
+.bgblack{
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgb(0, 0, 0) 0%, rgb(10, 10, 10) 35%, rgb(41, 42, 43) 100%);
+}
+.tx{
+    color: white;
+    display: block;
+    margin: auto;
+    width: 50%;
+    font-size:larger;
+}
+input{
+    display: block;
+    border: none;
+    background-color: rgb(18, 18, 19);
+    padding: 1%;
+    margin-top: 2%!important;
+    margin-bottom: 1%!important;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+    margin-top: 10% !important;
+    margin-bottom: 5% !important;
+    font-size: xx-large;
+    color: white;
+    text-decoration: underline;
+}
+.txt{
+    color: rgb(55, 55, 57);
+    font-size: large;
+    text-align: center;
+    display: block;
+}
+.home{
+    margin: auto;
+    text-align: center;
+}
+button{
+    margin: auto;
+    text-align: center;
+    margin-top: 2%;
+    background-color: rgb(55, 55, 57);
+}
+.rem{
+    display: flex;
+    margin-left: 3%;
+    color: rgb(55, 55, 57);
+}
